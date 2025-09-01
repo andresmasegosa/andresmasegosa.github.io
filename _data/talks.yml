@@ -1,3 +1,15 @@
+- title: On How PAC-Bayesian Bounds Help to Better Understand (and Improve) Bayesian Machine Learning
+  date: 2022-October
+  slides: 
+  thumb: 2022-BCAM.png
+  description: Invited talk at the international worksop [The Mathematics of Machine Learning](https://events.bcamath.org/themathematicsofmachinelearning/) in Bilbao (Spain).
+
+- title: Variational Inference and Optimization
+  date: 2022-June
+  slides: 
+  thumb: 2021-ProbAI.png
+  description: Full day lecture at [ProbAI 2022](https://github.com/probabilisticai/probai-2022) Nordic Probabilistic AI School in Helsinki (Findland).
+
 - title: Diversity and Generalization in Neural Network Ensembles
   date: 2022-6-12
   slides: 2022_aistats_deepensemble_diversity_slides.pdf
@@ -9,6 +21,12 @@
   slides: 2021-NeurIPS-Workshop.pdf
   thumb: NeurIPS-2021.png
   description: Invited Talk at **NeurIPS 2021 Workshop** [Your Model is Wrong. Robustness and misspecification in probabilistic modeling](https://sites.google.com/view/robustbayes-neurips21/home).
+
+- title: Variational Inference and Optimization
+  date: 2021-June
+  slides: 
+  thumb: 2021-ProbAI.png
+  description: Full day lecture at [ProbAI 2021](https://github.com/probabilisticai/probai-2021) Nordic Probabilistic AI School in Trondheim (Norway)
   
 - title: Learning Under Model Misspecification. Applications to Variational and Ensemble Methods
   date: 2020-11-5
@@ -22,11 +40,11 @@
   thumb: icml2020.png
   description: Contributed Talk at ICML2020 Workshop [Uncertainty and Robustness in Deep Learning Workshop (UDL)](https://icml.cc/virtual/2020/workshop/5717). [Video Recording](https://slideslive.com/38930581/bayesian-model-averaging-is-suboptimal-for-generalization-under-model-misspecification).
 
-- title: Variational Inference in Probabilistic Programming
+- title: Variational Inference and Probabilistic Programming
   date: 2019-10-5
   slides: 2019_ProbAI.zip
   thumb: probai2019.png
-  description: Tutorial at the [Probabilistic AI 2019 in Trondheim](https://2019.probabilistic.ai/) (Norway). Full material at the [Github](https://github.com/PGM-Lab/probabilisticAI_tutorials) repository. 
+  description: Tutorial at the [Probabilistic AI 2019 in Trondheim](https://github.com/probabilisticai/probai-2019/) (Norway). Full material at the [Github](https://github.com/PGM-Lab/probabilisticAI_tutorials) repository. 
 
 - title: A Bayesian approach for modelling non-stationary data streams.
   date: 2019-09-20
