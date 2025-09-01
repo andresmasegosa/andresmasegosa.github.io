@@ -10,16 +10,4 @@ image:
 published: true
 ---
 
-This project aims to develop new explainable ML algorithms based on PGMs addressing a 
-wide range of general machine learning problems (i.e. like anomaly detection, entity 
-profiling, supervised and unsupervised learning, etc.) and domain applications problems 
-in bioinformatics (Sebastiani et al., 2007), environmental modelling (Aguilera et al., 2011) 
-and digital image (aesthetics quality evaluation (Deng et al., 2017) and 
-semantic localization (Tompson et al., 2015)). With the results of this project, 
-we aim to show how PGMs are a promising ML model family to be used in safe-critical 
-and high- stakes decisions real-life explainable AI (XAI) systems (Gunning, 2017). 
-Therefore, the main objective of this project is to generate a set of methodological 
-developments in the field of machine learning using probabilistic models, with a solid 
-and innovative theoretical foundation that makes them explainable. The project also 
-addresses some specific applications as a way to effectively verify the proposed 
-methodological developments.
+This project, Illuminating Microbial Dark Matter through Data Science (DarkScience), tackles one of the biggest mysteries of life on Earth: the fact that most microbes—tiny organisms that are essential for our health, the environment, and even the discovery of new medicines—remain completely unknown. While microbes drive processes that sustain ecosystems and human life, only a fraction of their vast diversity has been mapped because most species are nearly impossible to isolate in a lab. The DarkScience project brings together biology and advanced computer science to change this. By combining cutting-edge DNA sequencing with powerful machine learning, the team will develop new methods to recover and analyze genomes of these hidden microbes, and link them to environmental data. This will open the door to discovering new species, understanding how microbial communities shape our planet, and unlocking solutions to challenges like antibiotic resistance, waste recycling, and climate change
