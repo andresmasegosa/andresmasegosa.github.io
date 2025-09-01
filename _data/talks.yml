@@ -1,11 +1,11 @@
 - title: On How PAC-Bayesian Bounds Help to Better Understand (and Improve) Bayesian Machine Learning
-  date: 2022-October
+  date: 2022-10-01
   slides: 
   thumb: 2022-BCAM.png
   description: Invited talk at the international worksop [The Mathematics of Machine Learning](https://events.bcamath.org/themathematicsofmachinelearning/) in Bilbao (Spain).
 
 - title: Variational Inference and Optimization
-  date: 2022-June
+  date: 2022-06-01
   slides: 
   thumb: 2021-ProbAI.png
   description: Full day lecture at [ProbAI 2022](https://github.com/probabilisticai/probai-2022) Nordic Probabilistic AI School in Helsinki (Findland).
