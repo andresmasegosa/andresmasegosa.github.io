@@ -10,12 +10,8 @@ image:
 published: true
 ---
 
-**Authors:** Abdulkadir Çelikkanat, Andrés R. Masegosa, and Thomas D. Nielsen.
-
-
+**Authors:** Abdulkadir Çelikkanat, Andres R. Masegosa, and Thomas D. Nielsen.
 
 <a href="https://github.com/abdcelikkanat/revisitingkmers"><i class="fa fa-github" aria-hidden="true"> Github</i></a>
 <a href="/papers/2024-NeurIPS-Kmer-Slides.pdf"><i class="fa fa-line-chart" aria-hidden="true"> Slides</i></a>
 <a href="/papers/2024-NeurIPS-Kmer-Poster.pdf"><i class="fa fa-image" aria-hidden="true"> Poster</i></a>
-
-

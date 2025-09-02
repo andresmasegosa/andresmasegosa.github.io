@@ -1,7 +1,7 @@
 ---
 layout: external
 title: Diversity and Generalization in Neural Network Ensembles
-role:  AISTATS 2022.
+role: AISTATS 2022.
 category: papers
 external_url: https://arxiv.org/abs/2110.13786
 tags: [sade, rnb, smooth]
