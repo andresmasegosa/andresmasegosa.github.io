@@ -8,13 +8,13 @@
   date: 2025-8-01
   slides: 2025_D3A_poster_inverse_regularizer.pdf
   thumb: D3A_logo.png
-  description: Contribution at Workshop Machine Learning Theory at [D3A 2025](https://d3aconference.dk/machine-learning-theory-2/) Danish Digitalization, Data Science and AI 3.0 in Nyborg (Denmark).
+  description: Contribution at [Workshop Machine Learning Theory at D3A 2025](https://d3aconference.dk/machine-learning-theory-2/) Danish Digitalization, Data Science and AI 3.0 in Nyborg (Denmark).
 
 - title: Introduction to Probabilistic Machine Learning
   date: 2025-08-01
   slides: 2025_SummerSchool_MSE_AI.pdf
   thumb: D3A_logo.png
-  description: Lecturing at Summer School on Methods for Statistical Evaluation of AI, co-located with [D3A 2025](https://d3aconference.dk/machine-learning-theory-2/) Danish Digitalization, Data Science and AI 3.0 in Nyborg (Denmark).
+  description: Lecturing at [Summer School on Methods for Statistical Evaluation of AI, co-located with D3A 2025](https://d3aconference.dk/machine-learning-theory-2/) Danish Digitalization, Data Science and AI 3.0 in Nyborg (Denmark).
 
 - title: Variational Inference and Optimization
   date: 2025-06-01
@@ -26,7 +26,7 @@
   date: 2025-03-01
   slides: 
   thumb: AAU_logo.png
-  description: Lecturing at PhD Course at [Aalborg Univeristy](https://aau.dk) (Denmark).
+  description: Lecturing a PhD Course at [Aalborg Univeristy](https://aau.dk) (Denmark).
 
 - title: PAC-Chernoff Bounds. Understanding Generalization in the Interpolation Regime
   date: 2024-05-01
