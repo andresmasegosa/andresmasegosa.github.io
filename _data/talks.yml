@@ -1,14 +1,20 @@
+- title: PAC-Chernoff Bounds. Understanding Generalization in the Interpolation Regime
+  date: 2025-10-01
+  slides: 2025_ECAI_PAC_Chernoff.pdf
+  thumb: ecai_logo.png
+  description:  Talk at [ECAI 2025](https://ecai2025.org/accepted-papers/#journal_track_accepted_papers), the European Conference on Artificial Intelligence in Bologna (Italy).
+
 - title: Towards Near-Optimal Regularization in Deep Learning
   date: 2025-8-01
-  slides: 
+  slides: 2025_D3A_poster_inverse_regularizer.pdf
   thumb: D3A_logo.png
-  description: Workshop Machine Learning Theory at [D3A 2025](https://d3aconference.dk/machine-learning-theory-2/) Danish Digitalization, Data Science and AI 3.0 in Nyborg (Denmark).
+  description: Contribution at Workshop Machine Learning Theory at [D3A 2025](https://d3aconference.dk/machine-learning-theory-2/) Danish Digitalization, Data Science and AI 3.0 in Nyborg (Denmark).
 
 - title: Introduction to Probabilistic Machine Learning
   date: 2025-08-01
-  slides: 
+  slides: 2025_SummerSchool_MSE_AI.pdf
   thumb: D3A_logo.png
-  description: Summer School on Methods for Statistical Evaluation of AI, co-located with [D3A 2025](https://d3aconference.dk/machine-learning-theory-2/) Danish Digitalization, Data Science and AI 3.0 in Nyborg (Denmark).
+  description: Lecturing at Summer School on Methods for Statistical Evaluation of AI, co-located with [D3A 2025](https://d3aconference.dk/machine-learning-theory-2/) Danish Digitalization, Data Science and AI 3.0 in Nyborg (Denmark).
 
 - title: Variational Inference and Optimization
   date: 2025-06-01
@@ -19,14 +25,14 @@
 - title: Introduction to Probabilistic Machine Learning
   date: 2025-03-01
   slides: 
-  thumb: AAU-logo.png
-  description: PhD Course at [Aalborg Univeristy](https://aau.dk) (Denmark).
+  thumb: AAU_logo.png
+  description: Lecturing at PhD Course at [Aalborg Univeristy](https://aau.dk) (Denmark).
 
 - title: PAC-Chernoff Bounds. Understanding Generalization in the Interpolation Regime
   date: 2024-05-01
-  slides: 
+  slides: 2025_ICLR_PAC_Chernoff.pdf
   thumb: ICLR_logo.png
-  description:  Workshop on Bridging the Gap Between Practice and Theory in Deep Learning [ICLR 2024](https://sites.google.com/view/bgpt-iclr24) in Vienna (Austria).
+  description:  Contribution at Workshop on Bridging the Gap Between Practice and Theory in Deep Learning [ICLR 2024](https://sites.google.com/view/bgpt-iclr24) in Vienna (Austria).
 
 
 - title: Variational Inference and Optimization
