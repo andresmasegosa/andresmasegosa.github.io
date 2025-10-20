@@ -34,12 +34,22 @@
   thumb: ICLR_logo.png
   description:  Contribution at Workshop on Bridging the Gap Between Practice and Theory in Deep Learning [ICLR 2024](https://sites.google.com/view/bgpt-iclr24) in Vienna (Austria).
 
+- title: A Generalisation Analysis of Bayesian Machine Learning
+  date: 2023-11-01
+  slides: 2023-Moonshots
+  thumb: P1_logo.png
+  description: Invited talk at [Workshop of AI Research Moonshots](https://www.aicentre.dk/events/20231004-workshop-ai-research-moonshots) in Copenhagen (Denmark).
 
 - title: Variational Inference and Optimization
   date: 2023-06-01
   slides: 
   thumb: 2021-ProbAI.png
   description: Full day lecture at [ProbAI 2023](https://github.com/probabilisticai/probai-2023) Nordic Probabilistic AI School in Trondheim (Norway).
+
+- title: Bayesian Priors and Generalization in Probabilistic Machine Learning
+  date: 2022-08-01
+  slides: 2022_DDSA_Conference.pdf
+  thumb: D3A_logo.png
 
 - title: On How PAC-Bayesian Bounds Help to Better Understand (and Improve) Bayesian Machine Learning
   date: 2022-10-01
