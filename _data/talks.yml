@@ -1,3 +1,15 @@
+- title: Towards Near-Optimal Regularization in Deep Learning
+  date: 2025-10-01
+  slides: 
+  thumb: D3A_logo.png
+  description: Workshop Machine Learning Theory at [D3A 2025](https://d3aconference.dk/machine-learning-theory-2/) Danish Digitalization, Data Science and AI 3.0 in Nyborg (Denmark).
+
+- title: Variational Inference and Optimization
+  date: 2023-06-01
+  slides: 
+  thumb: 2021-ProbAI.png
+  description: Full day lecture at [ProbAI 2023](https://github.com/probabilisticai/probai-2023) Nordic Probabilistic AI School in Trondheim (Norway).
+
 - title: On How PAC-Bayesian Bounds Help to Better Understand (and Improve) Bayesian Machine Learning
   date: 2022-10-01
   slides: 2022_BCAM_WorkShop
@@ -23,7 +35,7 @@
   description: Invited Talk at **NeurIPS 2021 Workshop** [Your Model is Wrong. Robustness and misspecification in probabilistic modeling](https://sites.google.com/view/robustbayes-neurips21/home).
 
 - title: Variational Inference and Optimization
-  date: 2021-June
+  date: 2021-6-01
   slides: 
   thumb: 2021-ProbAI.png
   description: Full day lecture at [ProbAI 2021](https://github.com/probabilisticai/probai-2021) Nordic Probabilistic AI School in Trondheim (Norway)
