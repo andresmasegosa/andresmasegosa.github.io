@@ -1,8 +1,33 @@
 - title: Towards Near-Optimal Regularization in Deep Learning
-  date: 2025-10-01
+  date: 2025-8-01
   slides: 
   thumb: D3A_logo.png
   description: Workshop Machine Learning Theory at [D3A 2025](https://d3aconference.dk/machine-learning-theory-2/) Danish Digitalization, Data Science and AI 3.0 in Nyborg (Denmark).
+
+- title: Introduction to Probabilistic Machine Learning
+  date: 2025-08-01
+  slides: 
+  thumb: D3A_logo.png
+  description: Summer School on Methods for Statistical Evaluation of AI, co-located with [D3A 2025](https://d3aconference.dk/machine-learning-theory-2/) Danish Digitalization, Data Science and AI 3.0 in Nyborg (Denmark).
+
+- title: Variational Inference and Optimization
+  date: 2025-06-01
+  slides: 
+  thumb: 2021-ProbAI.png
+  description: Full day lecture at [ProbAI 2025](https://github.com/probabilisticai/probai-2025) Nordic Probabilistic AI School in Trondheim (Norway).
+
+- title: Introduction to Probabilistic Machine Learning
+  date: 2025-03-01
+  slides: 
+  thumb: AAU-logo.png
+  description: PhD Course at [Aalborg Univeristy](https://aau.dk) (Denmark).
+
+- title: PAC-Chernoff Bounds. Understanding Generalization in the Interpolation Regime
+  date: 2024-05-01
+  slides: 
+  thumb: ICLR_logo.png
+  description:  Workshop on Bridging the Gap Between Practice and Theory in Deep Learning [ICLR 2024](https://sites.google.com/view/bgpt-iclr24) in Vienna (Austria).
+
 
 - title: Variational Inference and Optimization
   date: 2023-06-01
