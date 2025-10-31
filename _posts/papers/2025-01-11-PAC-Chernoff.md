@@ -1,7 +1,7 @@
 ---
 layout: external
 title: PAC-Chernoff Bounds - Understanding Generalization in the Interpolation Regime
-role: JAIR 2024
+role: JAIR 2025
 category: papers
 external_url: https://www.jair.org/index.php/jair/article/view/17036
 tags: [genomics, k-mer, representation-learning, metagenomics, binning]
