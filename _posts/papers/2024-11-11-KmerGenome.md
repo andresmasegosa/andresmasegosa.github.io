@@ -1,7 +1,7 @@
 ---
 layout: external
 title: Revisiting K-mer Profile for Effective and Scalable Genome Representation Learning
-role: NeurIPS 2024
+role: NeurIPS 2024 (SpotLight).
 category: papers
 external_url: https://openreview.net/forum?id=Ehsd856Ltb
 tags: [genomics, k-mer, representation-learning, metagenomics, binning]
