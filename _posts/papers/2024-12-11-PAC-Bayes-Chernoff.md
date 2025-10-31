@@ -13,4 +13,3 @@ published: true
 **Authors:** Ioar Casado Telletxea, Luis A. Ortega, Aritx Pérez and Andrés R. Masegosa
 
 <a href="/papers/2024_PAC_Bayes_Chernoff_Slides.pdf"><i class="fa fa-line-chart" aria-hidden="true"> Slides</i></a>
-<a href="/papers/2024-NeurIPS-Kmer-Poster.pdf"><i class="fa fa-image" aria-hidden="true"> Poster</i></a>
