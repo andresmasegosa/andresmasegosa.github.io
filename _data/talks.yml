@@ -1,3 +1,9 @@
+- title: Self-Aware AI. When Algorithms Dare to Say “I Don’t Know”
+  date: 2025-11-01
+  slides: 2025_DigitalTechSummit.pdf
+  thumb: 2025_DTS.png
+  description:  Talk at [Digital Tech Summit 2025](https://event.ing.dk/dts5), Denmark's largest deep tech conference.
+
 - title: PAC-Chernoff Bounds. Understanding Generalization in the Interpolation Regime
   date: 2025-10-01
   slides: 2025_ECAI_PAC_Chernoff.pdf
