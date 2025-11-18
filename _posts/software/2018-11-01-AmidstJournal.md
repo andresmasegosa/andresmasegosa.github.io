@@ -29,4 +29,5 @@ Andrés R. Masegosa, Ana M. Martínez, Darío Ramos-López, Rafael Cabañas
   AMIDST: a Java toolbox for scalable probabilistic machine learning.
   Knowledge Based Systems 163, 595-597.
 
-<a href="https://github.com/amidst/toolbox"><i class="fa fa-github" aria-hidden="true" > Github</i></a> <a href="http://www.amidsttoolbox.com"><i class="fa fa-code" aria-hidden="true" > Web</i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0950705118304702"><i class="fa fa-file-pdf-o" aria-hidden="true" > PDF</i></a> <a href="https://arxiv.org/pdf/1704.01427"><i class="fa fa-institution" aria-hidden="true" > arXiv</i></a>
+<a href="https://github.com/amidst/toolbox"><i class="fa fa-github" aria-hidden="true" > Github</i></a> <a href="http://www.amidsttoolbox.com"><i class="fa fa-code" aria-hidden="true" > Web</i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0950705118304702"><i class="fa fa-file-pdf-o" aria-hidden="true" > PDF</i></a> <a href="https://arxiv.org/pdf/1704.01427"><i class="fa fa-institution" aria-hidden="true" > arXiv</i></a> ![GitHub stars](https://img.shields.io/github/stars/amidst/toolbox?style=social)
+

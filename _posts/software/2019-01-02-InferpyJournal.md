@@ -20,6 +20,4 @@ Cabañas, R., Salmerón, A., & Masegosa, A. R. (2019). InferPy: Probabilistic mo
 Cozar J., Cabañas, R., Salmerón, A., & Masegosa, A. R. (2020). InferPy: Deep Probabilistic modeling with Tensorflow made easy. Accepted for publication in Neurocomputing.
 
 
-<a href="https://github.com/pgm-lab/inferpy"><i class="fa fa-github" aria-hidden="true" > Github</i></a> <a href="https://inferpy-docs.readthedocs.io/en/stable/index.html"><i class="fa fa-code" aria-hidden="true" > Web</i></a> 
-
-![GitHub stars](https://img.shields.io/github/stars/pgm-lab/inferpy?style=social)
+<a href="https://github.com/pgm-lab/inferpy"><i class="fa fa-github" aria-hidden="true" > Github</i></a> <a href="https://inferpy-docs.readthedocs.io/en/stable/index.html"><i class="fa fa-code" aria-hidden="true" > Web</i></a>  ![GitHub stars](https://img.shields.io/github/stars/pgm-lab/inferpy?style=social)
