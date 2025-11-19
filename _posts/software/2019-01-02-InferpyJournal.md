@@ -14,6 +14,7 @@ InferPy is a Python package for probabilistic modeling with deep neural networks
 
 **The project currently has almost 150 stars on GitHub.**
 
+**Publications:*
 
 Cabañas, R., Salmerón, A., & Masegosa, A. R. (2019). InferPy: Probabilistic modeling with Tensorflow made easy. Knowledge-Based Systems, 168, 25-27.
 

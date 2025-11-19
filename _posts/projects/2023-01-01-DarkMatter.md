@@ -1,7 +1,7 @@
 ---
 layout: external
 title: Illuminating microbial dark matter through data science (DarkScience)
-role: 2023-2027 Villum Foundation
+role: 2023-2027 Villum Foundation - Research Team
 category: projects
 external_url: https://vbn.aau.dk/en/projects/illuminating-microbial-dark-matter-through-data-science
 tags: 

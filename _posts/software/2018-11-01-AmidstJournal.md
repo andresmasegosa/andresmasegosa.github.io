@@ -23,6 +23,7 @@ Weka, R and HUGIN. AMIDST is an open source toolbox written in Java and availabl
 
 **The project currently has more than 120 stars on GitHub.**
 
+**Publications:*
 
 Andrés R. Masegosa, Ana M. Martínez, Darío Ramos-López, Rafael Cabañas,
   Antonio Salmerón, Helge Langseth, Thomas D. Nielsen, Anders L. Madsen (2019)
