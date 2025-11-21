@@ -370,6 +370,13 @@ input {
   margin: 0 auto;
   float: none; }
 
+body.short-cv .wrap.post {
+  max-width: 1100px; }
+
+body.short-cv .post {
+  max-width: 1100px;
+  width: 90%; }
+
 /* Header */
 header.site-header {
   padding: 40px 0;
