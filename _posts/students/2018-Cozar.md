@@ -1,7 +1,7 @@
 ---
 layout: external
 title: Javier Cozar
-role: 2018–2019 —- PostDoc -- InferPy Project
+role: 2018–2019 -- PostDoc -- InferPy Project
 category: students
 external_url: http://www.jcozar.es/
 tags: [students, supervision, probabilistic machine learning]
