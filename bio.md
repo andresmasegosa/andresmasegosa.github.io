@@ -14,6 +14,7 @@ José Saramago, Nobel Prize in Literature 1998.
 
 ---
 
+## summary
 
 My research field is probabilistic machine learning, a discipline that focuses on using probabilistic frameworks to design machines capable of learning from experience. 
 I have authored more than 40 papers presented at international machine learning conferences and more than 30  papers in highly ranked journals, primarily as a first or leading author. 
