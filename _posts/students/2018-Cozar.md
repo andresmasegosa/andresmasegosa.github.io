@@ -6,7 +6,7 @@ category: students
 external_url: http://www.jcozar.es/
 tags: [students, supervision, probabilistic machine learning]
 image:
-  thumb: Cozar.png
+  thumb: Cozar.jpeg
 published: true
 ---
 
