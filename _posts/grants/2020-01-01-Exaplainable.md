@@ -10,5 +10,5 @@ image:
 published: true
 ---
 
-This Spanish Ministry of Science research grant (2020–2023) funded work on advancing **explainable machine learning within a probabilistic framework**. As **Co-PI**, I contributed to the methodological development of probabilistic models for interpretability and trustworthy decision-making. The grant also **funded one PhD student**, enabling research on explainability across supervised and unsupervised learning, anomaly detection, profiling, and applications in bioinformatics, environmental modelling, and computer vision.
+This Spanish Ministry of Science research grant (2020–2023) funded work on advancing **explainable machine learning within a probabilistic framework**. As **Co-PI**, I contributed to the methodological development of probabilistic models for interpretability and trustworthy decision-making. The grant also **funded one PhD student**.
 
