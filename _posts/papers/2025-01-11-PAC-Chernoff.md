@@ -12,6 +12,8 @@ published: true
 
 **Authors:** Andrés R. Masegosa and Luis A. Ortega
 
+**Spotlight talk at European Conference on Artificial Intelligence (ECAI) 2025**
+
 <a href="https://github.com/Ludvins/2024_PAC-Chernoff-Bound"><i class="fa fa-github" aria-hidden="true"> Github</i></a>
 <a href="/papers/2025_JAIR_ECAI_PAC_Chernoff.pdf"><i class="fa fa-line-chart" aria-hidden="true"> Slides</i></a>
 <a href="/papers/2025_JAIR_ECAI_PAC_Chernoff_Poster.pdf"><i class="fa fa-image" aria-hidden="true"> Poster</i></a>
