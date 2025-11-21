@@ -6,7 +6,7 @@ category: grants
 external_url: https://inferpy.readthedocs.io
 tags: [Almeria, recognition, traffic, manoeuvre, Daimler]
 image:
-  thumb: 2022-01-01-Exaplainable.png
+  thumb: Ministerio.png
 published: true
 ---
 
