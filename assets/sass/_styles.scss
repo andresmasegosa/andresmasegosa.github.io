@@ -201,6 +201,15 @@ input {
     float: none;
 }
 
+body.short-cv .wrap.post {
+    max-width: 1100px;
+}
+
+body.short-cv .post {
+    max-width: 1100px;
+    width: 90%;
+}
+
 
 /* Header */
 

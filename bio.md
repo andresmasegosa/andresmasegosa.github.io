@@ -6,6 +6,7 @@ description:
 tags: [andres r. masegosa, andres, machine learning, Aalborg, Copenhagen, Denmark]
 image:
   feature: granadapartal.jpg
+body_class: short-cv
 ---
 
 "Chaos is merely order waiting to be deciphered."
