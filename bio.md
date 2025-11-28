@@ -16,10 +16,12 @@ José Saramago, Nobel Prize in Literature 1998.
 
 ## summary 
 
-My research field is probabilistic machine learning, a discipline that focuses on using probabilistic frameworks to design machines capable of learning from experience. 
-I have authored more than 40 papers presented at international machine learning conferences and more than 30  papers in highly ranked journals, primarily as a first or leading author. 
-My work has been recognized through several prestigious awards and grants, including a highly competitive starting grant with only a 6% success rate, a national competitive research project, 
-and most recently the **Villum Synergy Grant “DK-Future” (4.48 million DKK)**, which I lead as Principal Investigator. 
+My research field is probabilistic machine learning, a discipline that focuses on using probabilistic frameworks to design machines capable of learning from experience.
+I have authored more than 40 papers presented at international machine learning conferences and more than 30  papers in highly ranked journals, primarily as a first or leading author.
+My work has been recognized through several prestigious awards and grants, including a highly competitive starting grant with only a 6% success rate, a national competitive research project,
+and most recently the **Villum Synergy Grant “DK-Future” (4.48 million DKK)**, which I lead as Principal Investigator.
+
+I am a member of the [ELLIS Society](https://ellis.eu/person/andres-masegosa).
 
 My expertise in probabilistic machine learning is further acknowledged through my roles as an Area Coordinator at a top ML conference like NeurIPS, ICML and AISTATS and as an Area Editor for journals such as *ACM Transactions on Probabilistic Machine Learning* and *Intelligent Data Analysis*. 
 In 2024, I was one of the main organizers of an international summer school in probabilistic machine learning, attracting over 150 students from around the world, and I am currently the main organizer of its latest edition in Copenhagen.

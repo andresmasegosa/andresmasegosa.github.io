@@ -7,9 +7,11 @@ image:
   feature: andresrm-circle.png
 ---
 
+I am a member of the [ELLIS Society](https://ellis.eu/person/andres-masegosa).
+
 ### Positions
 ---
-- PhD/PostDoc positions in Probabilistic Machine Learning: 
+- PhD/PostDoc positions in Probabilistic Machine Learning:
 
   * Email me if you are interested
 
