@@ -109,7 +109,7 @@ Trustworthy Machine Learning – Bayesian Methods – Uncertainty Quantification
 - **Area Coordinator**: NeurIPS, ICML, AISTATS.  
 - **Area Editor**: ACM Transactions on Probabilistic Machine Learning, Intelligent Data Analysis (IDA), Transactions on Machine Learning Research.  
 - **Program Committee**: NeurIPS, ICML, ICLR, AISTATS.  
-- **Reviewer**: JMLR, JAIR, Knowledge-Based Systems, IJAR, and others.
+- **Reviewer**: Nature Communications, JMLR, JAIR, Knowledge-Based Systems, IJAR, and others.
 
 ---
 
@@ -144,4 +144,3 @@ Trustworthy Machine Learning – Bayesian Methods – Uncertainty Quantification
 - 2005–2009 – **PhD in Computer Science**. University of Granada (Spain).  
 - 2003–2005 – **Master in Soft Computing and Artificial Intelligence**. University of Granada (Spain).  
 - 1998–2003 – **BSc Computer Engineering**. University of Granada (Spain).
-
