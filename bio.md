@@ -125,6 +125,7 @@ Trustworthy Machine Learning – Bayesian Methods – Uncertainty Quantification
 
 ## invited talks
 
+- Jan 2026 – Bienal RSME 2026, Special Session "Mathematics and Machine Learning" (Alicante, Spain).
 - Feb 2024 – D3A Conference for Robotics Workshop (Nyborg, Denmark).  
 - May 2022 – Department of Computer Science, University of Copenhagen (Denmark).  
 - Nov 2022 – D3A Conference – Theoretical ML Workshop (Nyborg, Denmark).  
