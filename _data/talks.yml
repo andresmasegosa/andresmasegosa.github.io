@@ -1,4 +1,10 @@
-- title: Self-Aware AI. When Algorithms Dare to Say “I Don’t Know”
+- title: From PAC-Chernoff Bounds to Practice. Smooth Interpolators and Near-Optimal Generalization in Deep Learning
+  date: 2026-01-01
+  slides: 2026_RSME_PAC_Chernoff.pdf
+  thumb: 2026_RSME.png
+  description: Talk at the special session "Mathematics and Machine Learning" at the [Bienal RSME 2026](https://2026.bienalrsme.com/), the biennial congress of the Royal Spanish Mathematical Society in Alicante (Spain).
+
+- title: Self-Aware AI. When Algorithms Dare to Say "I Don't Know"
   date: 2025-11-01
   slides: 2025_DigitalTechSummit.pdf
   thumb: 2025_DTS.png
