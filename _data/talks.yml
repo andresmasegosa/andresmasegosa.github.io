@@ -1,3 +1,9 @@
+- title: Probabilistic Geospatial Machine Learning as a Blueprint for Trustworthy AI in High-Stakes Domains
+  date: 2026-03-03
+  slides: 2026_TrAI_Workshop_GeoML.pdf
+  thumb: P1_logo.png
+  description: Lightning talk at [TrAI Workshop 1 "Mapping the Trustworthy AI Landscape"](https://sites.google.com/view/trai-p1-program/workshop-1), hosted by the [Pioneer Centre for AI](https://www.aicentre.dk/p1-programs/trustworthy-artificial-intelligence-trai) in Copenhagen (Denmark). Part of the Trustworthy Artificial Intelligence (TrAI) P1 program.
+
 - title: From PAC-Chernoff Bounds to Practice. Smooth Interpolators and Near-Optimal Generalization in Deep Learning
   date: 2026-01-01
   slides: 2026_RSME_PAC_Chernoff.pdf

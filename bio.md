@@ -125,6 +125,7 @@ Trustworthy Machine Learning – Bayesian Methods – Uncertainty Quantification
 
 ## invited talks
 
+- Mar 2026 – TrAI Workshop 1 "Mapping the Trustworthy AI Landscape", Pioneer Centre for AI (Copenhagen, Denmark).
 - Jan 2026 – Bienal RSME 2026, Special Session "Mathematics and Machine Learning" (Alicante, Spain).
 - Feb 2024 – D3A Conference for Robotics Workshop (Nyborg, Denmark).  
 - May 2022 – Department of Computer Science, University of Copenhagen (Denmark).  
