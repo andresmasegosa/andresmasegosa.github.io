@@ -54,7 +54,7 @@
 
 - title: A Generalisation Analysis of Bayesian Machine Learning
   date: 2023-11-01
-  slides: 2023-Moonshots
+  slides: 2023-Moonshots.pdf
   thumb: P1_logo.jpg
   description: Invited talk at [Workshop of AI Research Moonshots](https://www.aicentre.dk/events/20231004-workshop-ai-research-moonshots) in Copenhagen (Denmark).
 
@@ -65,13 +65,14 @@
   description: Full day lecture at [ProbAI 2023](https://github.com/probabilisticai/probai-2023) Nordic Probabilistic AI School in Trondheim (Norway).
 
 - title: Bayesian Priors and Generalization in Probabilistic Machine Learning
-  date: 2022-08-01
+  date: 2022-11-01
   slides: 2022_DDSA_Conference.pdf
   thumb: D3A_logo.png
+  description: Talk at the [Danish Data Science](https://ddsa.dk/) 2022 conference in Nyborg (Denmark). Joint work with Luis A. Ortega (UPM, Spain).
 
 - title: On How PAC-Bayesian Bounds Help to Better Understand (and Improve) Bayesian Machine Learning
   date: 2022-10-01
-  slides: 2022_BCAM_WorkShop
+  slides: 2022_BCAM_WorkShop.pdf
   thumb: 2022-BCAM.png
   description: Invited talk at the international worksop [The Mathematics of Machine Learning](https://events.bcamath.org/themathematicsofmachinelearning/) in Bilbao (Spain).
 
@@ -91,7 +92,7 @@
   date: 2021-12-14
   slides: 2021-NeurIPS-Workshop.pdf
   thumb: NeurIPS-2021.png
-  description: Invited Talk at **NeurIPS 2021 Workshop** [Your Model is Wrong. Robustness and misspecification in probabilistic modeling](https://sites.google.com/view/robustbayes-neurips21/home).
+  description: Invited Talk at **NeurIPS 2021 Workshop** [Your Model is Wrong. Robustness and misspecification in probabilistic modeling](https://sites.google.com/view/robustbayes-neurips21/home). Held virtually (host city Sydney, Australia).
 
 - title: Variational Inference and Optimization
   date: 2021-6-01
@@ -109,7 +110,7 @@
   date: 2020-06-5
   slides: 2020-UDL.pdf
   thumb: icml2020.png
-  description: Contributed Talk at ICML2020 Workshop [Uncertainty and Robustness in Deep Learning Workshop (UDL)](https://icml.cc/virtual/2020/workshop/5717). [Video Recording](https://slideslive.com/38930581/bayesian-model-averaging-is-suboptimal-for-generalization-under-model-misspecification).
+  description: Contributed Talk at ICML2020 Workshop [Uncertainty and Robustness in Deep Learning Workshop (UDL)](https://icml.cc/virtual/2020/workshop/5717). Held virtually (host city Vienna, Austria). [Video Recording](https://slideslive.com/38930581/bayesian-model-averaging-is-suboptimal-for-generalization-under-model-misspecification).
 
 - title: Variational Inference and Probabilistic Programming
   date: 2019-10-5
@@ -132,31 +133,61 @@
 - title: Bayesian Modelling of Concept Drift
   date: 2018-07-21
   slides: 2018_Bayesian_Modelling_of_Concept_Drift.pdf
-  thumb: ICMLlogo17.jpg
-  description: Talk at [ICML 2017](https://icml.cc/Conferences/2017/Schedule?showEvent=1050) in Sydney (Australia) and the [Machine Learning Group](https://www.ml.tu-berlin.de/menue/machine_learning/) in the Technical University of Berlin (Germany).
+  thumb: TUBerlin_logo.png
+  description: Talk at the [Machine Learning Group](https://www.ml.tu-berlin.de/menue/machine_learning/) in the Technical University of Berlin (Germany).
 
 - title: Probabilistic Machine Learning with the AMIDST Toolbox
   date: 2018-01-21
   slides: 2018_Geilo.zip
   thumb: Geilo.jpg
-  description: Tutorial at the [Geilo Winter School 2018](https://www.sintef.no/projectweb/geilowinterschool/2018-artificial-intelligence/) (Norway). Full material at the [Github](https://github.com/andresmasegosa/GeiloWinterSchool2018) repository. 
+  description: Tutorial at the [Geilo Winter School 2018](https://www.sintef.no/projectweb/geilowinterschool/2018-artificial-intelligence/) (Norway). Full material at the [Github](https://github.com/andresmasegosa/GeiloWinterSchool2018) repository.
 
-- title: AMIDST Toolbox - Scalable Probabilistic Machine Leanring
+- title: Bayesian Modelling of Concept Drift
+  date: 2017-08-06
+  slides: 2018_Bayesian_Modelling_of_Concept_Drift.pdf
+  thumb: ICMLlogo17.jpg
+  description: Talk at [ICML 2017](https://icml.cc/Conferences/2017/Schedule?showEvent=1050) in Sydney (Australia).
+
+- title: AMIDST Toolbox - Scalable Probabilistic Machine Learning
   date: 2016-07-19
   slides: 2017_AMiDST_Toolbox.pdf
   thumb: apache.jpg
-  description: Talk at the [Apache Big Data Europe 2016](https://apachebigdataeu2016.sched.com/event/8TzB/amidst-toolbox-a-java-toolbox-for-scalable-probabilistic-machine-learning-andres-masegosa-ntnu) in Seville (Spain), [DeustoTech Mobility group](http://research.mobility.deustotech.eu/) of the University of Deusto (Bilbao, Spain) and [Machine Learning Group](https://www.ml.tu-berlin.de/menue/machine_learning/) in the Technical University of Berlin (Germany).
+  description: Talk at the [Apache Big Data Europe 2016](https://apachebigdataeu2016.sched.com/event/8TzB/amidst-toolbox-a-java-toolbox-for-scalable-probabilistic-machine-learning-andres-masegosa-ntnu) in Seville (Spain).
+
+- title: AMIDST Toolbox - Scalable Probabilistic Machine Learning
+  date: 2016-07-19
+  slides: 2017_AMiDST_Toolbox.pdf
+  thumb: Deusto_logo.png
+  description: Talk at the [DeustoTech Mobility group](http://research.mobility.deustotech.eu/) of the University of Deusto in Bilbao (Spain).
+
+- title: AMIDST Toolbox - Scalable Probabilistic Machine Learning
+  date: 2016-07-19
+  slides: 2017_AMiDST_Toolbox.pdf
+  thumb: TUBerlin_logo.png
+  description: Talk at the [Machine Learning Group](https://www.ml.tu-berlin.de/menue/machine_learning/) in the Technical University of Berlin (Germany).
 
 - title: Stochastic Discriminative EM - Discriminative Learning of Latent Variable Models
   date: 2014-07-01
   slides: 2014_UAI.pdf
   thumb: uai2014.png
-  description: Talk at [UAI 2014](http://auai.org/uai2014/) in Quebec (Canada) and the [Department of Computer Science](https://www.cs.aau.dk/) in the University of Aalborg (Denmark). 
+  description: Talk at [UAI 2014](http://auai.org/uai2014/) in Quebec (Canada).
+
+- title: Stochastic Discriminative EM - Discriminative Learning of Latent Variable Models
+  date: 2014-07-01
+  slides: 2014_UAI.pdf
+  thumb: AAU_logo.png
+  description: Talk at the [Department of Computer Science](https://www.cs.aau.dk/) in the University of Aalborg (Denmark).
 
 - title: Interactive Learning of Bayesian Networks
   date: 2012-07-01
   slides: 2012_Interactive.pdf
   thumb: utrecht.jpeg
-  description: Talk at the [Department of Information and Computing Sciences](https://www.uu.nl/en/organisation/department-of-information-and-computing-sciences) in the University of Utrecht (Netherlands) and the [Department of Computer Science](https://www.cs.aau.dk/) in the University of Aalborg (Denmark). 
+  description: Talk at the [Department of Information and Computing Sciences](https://www.uu.nl/en/organisation/department-of-information-and-computing-sciences) in the University of Utrecht (Netherlands).
+
+- title: Interactive Learning of Bayesian Networks
+  date: 2012-07-01
+  slides: 2012_Interactive.pdf
+  thumb: AAU_logo.png
+  description: Talk at the [Department of Computer Science](https://www.cs.aau.dk/) in the University of Aalborg (Denmark).
 
 

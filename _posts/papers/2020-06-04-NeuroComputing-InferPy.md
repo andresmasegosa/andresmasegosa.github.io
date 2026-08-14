@@ -1,12 +1,12 @@
 ---
 layout: external
-title: InferPy: Probabilistic modeling with deep neural networks made easy
-role:  Entropy 2021.
+title: "InferPy: Probabilistic modeling with deep neural networks made easy"
+role:  Neurocomputing 2020.
 category: papers
 external_url: https://www.sciencedirect.com/science/article/abs/pii/S092523122031328X
 tags: [sade, rnb, smooth]
 image:
-  thumb: 2021-Entropy.png
+  thumb: logoinferpy.png
 published: true
 ---
 

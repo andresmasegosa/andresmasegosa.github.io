@@ -47,16 +47,16 @@ Trustworthy Machine Learning – Bayesian Methods – Uncertainty Quantification
 
 ## scholarships, grants
 
-- 2026–2029 – **Villum Synergy Programme**. PI.  
-  DK-Future: Probabilistic Geospatial Machine Learning for Predicting Future Danish Land Use under Compound Climate Impact. 2 PDs. Funded with 4.5M DKK.
+- 2026–2028 – **Villum Synergy Programme**. PI.  
+  DK-Future: Probabilistic Geospatial Machine Learning for Predicting Future Danish Land Use under Compound Climate Impact. 2 PDs. Funded with 4,480,000 DKK (approx. 600,000€).
 
-- 2020–2022 – **National Research Grant**. Co-PI.  
+- 2020–2023 – **National Research Grant**. Co-PI.  
   Explainable Machine Learning: A Probabilistic Approach. Competitive National Call by the Spanish Ministry of Science. 1 PhD student. 62,000€.
 
 - 2019 – **José Castillejo Scholarship**. Highly competitive national call by the Spanish Ministry of Science.  
   Funded with 15,000€ for a research visit at University of Copenhagen.
 
-- 2017–2018 – **Early-Stage Researcher Grant**. PI.  
+- 2017–2019 – **Early-Stage Researcher Grant**. PI.  
   Probabilistic Programming Languages for Intelligent Applications on Large Data. Competitive National Call (6% acceptance). 2 Post-Docs. Funded with 172,000€.
 
 - 2013 – **Young Researcher Scholarship**. Local Call (University of Granada).  

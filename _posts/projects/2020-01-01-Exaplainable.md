@@ -3,8 +3,8 @@ layout: external
 title: Explainable Machine Learning - A Probabilistic Approach
 role: 2020-2023 Spanish Ministry of Science - Co-Principal Investigator
 category: projects
-external_url: https://inferpy.readthedocs.io 
-tags: [Almeria, recognition, traffic, manoeuvre, Daimler]
+external_url: https://www.aei.gob.es/
+tags: [Spain, explainable AI, probabilistic graphical models, XAI]
 image:
   thumb: 2022-01-01-Exaplainable.png
 published: true
