@@ -1,3 +1,9 @@
+- title: Which Land-Use Futures Are Likely? Probabilistic AI for Denmark's Landscape under Policy and Climate Change
+  date: 2026-11-24
+  slides: 2026_P1_Roundtable_DK-Future.pdf
+  thumb: P1_logo.jpg
+  description: Invited talk at the roundtable *The Use of AI in Planning for the Green Transition*, hosted by the [Pioneer Centre for AI](https://www.aicentre.dk/) and the Royal Danish Academy in Copenhagen (Denmark). About [DK-Future](https://dk-future.github.io/), a Villum Synergy project on forecasting Denmark's land use under policy and climate change.
+
 - title: Probabilistic Geospatial Machine Learning as a Blueprint for Trustworthy AI in High-Stakes Domains
   date: 2026-03-03
   slides: 2026_TrAI_Workshop_GeoML.pdf
